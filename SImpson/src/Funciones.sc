@@ -38,7 +38,7 @@ val err5 = error(1.711828, res5)
 
 //Ejercicio 6
 def eje6(n: Double): Double =
-  1 / (Math.sqrt(n-1))
+  1 / Math.sqrt(n-1)
 val res6 = integracion(eje6, 2, 3)
 val err6 = error(0.828427, res6)
 
