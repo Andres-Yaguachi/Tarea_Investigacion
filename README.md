@@ -206,7 +206,7 @@ val res1 = integracion(eje1, 3, 5)  // Expresión que se evalúa
 
 ---
 
-## 📊 Ventajas del Método Implementado
+## Ventajas del Método Implementado
 
 1. **Reutilización:** La función `integracion` funciona con cualquier función matemática
 2. **Composición:** Fácil de componer con otras operaciones matemáticas
@@ -215,7 +215,7 @@ val res1 = integracion(eje1, 3, 5)  // Expresión que se evalúa
 
 ---
 
-## 🎓 Conclusiones
+## Conclusiones
 
 - Se implementó exitosamente el método de Simpson 1/3 usando programación funcional
 - Se utilizaron funciones de orden superior para lograr abstracción y reutilización
@@ -224,7 +224,7 @@ val res1 = integracion(eje1, 3, 5)  // Expresión que se evalúa
 
 ---
 
-## 📚 Referencias
+## Referencias
 
 - Método de Simpson 1/3 para integración numérica
 - Programación Funcional en Scala
